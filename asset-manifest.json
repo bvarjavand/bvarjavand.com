@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bvarjavand.com/static/css/main.2cce8147.chunk.css",
+    "main.js": "/bvarjavand.com/static/js/main.1f529771.chunk.js",
+    "main.js.map": "/bvarjavand.com/static/js/main.1f529771.chunk.js.map",
+    "runtime~main.js": "/bvarjavand.com/static/js/runtime~main.3fa813d0.js",
+    "runtime~main.js.map": "/bvarjavand.com/static/js/runtime~main.3fa813d0.js.map",
+    "static/js/2.b41502e9.chunk.js": "/bvarjavand.com/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/bvarjavand.com/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/bvarjavand.com/index.html",
+    "precache-manifest.73a71dde7f75c2f69515fa60ac258faf.js": "/bvarjavand.com/precache-manifest.73a71dde7f75c2f69515fa60ac258faf.js",
+    "service-worker.js": "/bvarjavand.com/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/bvarjavand.com/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/bvarjavand.com/static/media/logo.5d5d9eef.svg"
+  }
+}
