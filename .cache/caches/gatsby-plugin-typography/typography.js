@@ -1,0 +1,1 @@
+module.exports = require("/Users/bijanvarjavand/Documents/bvarjavand/bvarjavand.com/src/utils/typography")
